@@ -1,4 +1,4 @@
-# TodoApp_FB-Realtime-DB
+# TodoApp_REDUX
 
 # Overview
 This project showcases the artistry of mobile app development using React Native, a cross-platform framework that allows us to deliver a rich and consistent user experience on both Android and iOS devices.
